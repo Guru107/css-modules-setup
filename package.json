@@ -1,0 +1,26 @@
+{
+  "name": "css-modules-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-literal-loader": "^0.2.0",
+    "css-loader": "^0.28.4",
+    "extract-css-chunks-webpack-plugin": "^1.0.10",
+    "less-loader": "^4.0.4",
+    "react-hot-loader": "3.0.0-beta.7",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "less": "^2.7.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-loadable": "^3.3.1",
+    "webpack-flush-chunks": "^0.1.1"
+  }
+}
